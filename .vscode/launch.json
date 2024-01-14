@@ -8,8 +8,8 @@
       "args": [],
       "stopAtEntry": false,
       "externalConsole": true,
-      "cwd": "c:/naschaycode/baymuoisaubaicodegine",
-      "program": "c:/naschaycode/baymuoisaubaicodegine/build/Debug/outDebug",
+      "cwd": "c:/naschaycode/mangmotchieu",
+      "program": "c:/naschaycode/mangmotchieu/build/Debug/outDebug",
       "MIMode": "gdb",
       "miDebuggerPath": "gdb",
       "setupCommands": [
